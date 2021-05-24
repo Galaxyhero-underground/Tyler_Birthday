@@ -50,7 +50,12 @@ function makeSound(key) {
       var kickBass = new Audio("sounds/kick-bass.mp3");
       kickBass.play();
       break;
-
+    
+    case "Tyler":
+      var Tyler = new Audio("sounds/Tyler.mp3");
+      kickBass.play();
+      break;
+            
     default:
       console.log(key);
 }
