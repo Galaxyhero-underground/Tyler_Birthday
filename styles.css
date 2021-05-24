@@ -44,6 +44,10 @@ background-image: url("images/crash.png");
 background-image: url("images/kick.png");
 }
 
+.Tyler {
+background-image: url("images/Tyler.png");
+}
+
 .set {
   margin: 10% auto;
 }
